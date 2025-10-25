@@ -1,12 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rabbanictgbd/rabbanictgbd/main/images/banner2.png" alt="My Image">
 
-</p>
-<!-- Banner Image -->
-![Banner](https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1350&q=80)
 
-# Hi, I'm Abdul Kader Rabbani 👋
-### System Support Engineer & Web Developer
+# Hi, I'm Abdul Kader Rabbani 
+### Web Developer
 
 ---
 
@@ -15,14 +12,14 @@ I am a passionate Web Developer and IT professional with experience in full-stac
 
 ---
 
-## 🔭 Current Activities
+## Current Activities
 - Exploring **Next.js** and modern React features.  
 - Developing a **tourism website** project.  
 - Enhancing skills in **MERN stack development** and database optimization.  
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -45,9 +42,9 @@ I am a passionate Web Developer and IT professional with experience in full-stac
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-kader-rabbani/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabbanictgbd)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-profile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdul.kader.rabbani.478092/)
 
 ---
 
