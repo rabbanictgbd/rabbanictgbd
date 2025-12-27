@@ -3,12 +3,12 @@
 
 
 # Hi, I'm Abdul Kader Rabbani 
-### Web Developer
+### MERN Stack Web Developer
 
 ---
 
 ## About Me
-I am a passionate Web Developer and IT professional with experience in full-stack development and system support. I enjoy building efficient, user-friendly applications and continuously improving my skills in modern web technologies.
+I am a passionate Web Developer and IT professional with experience in MERN stack development. I enjoy building efficient, user-friendly applications and continuously improving my skills in modern web technologies.
 
 ---
 
