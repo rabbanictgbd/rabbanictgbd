@@ -12,13 +12,6 @@ I am a passionate Web Developer and IT professional with experience in MERN stac
 
 ---
 
-## Current Activities
-- Exploring **Next.js** and modern React features.  
-- Developing a **tourism website** project.  
-- Enhancing skills in **MERN stack development** and database optimization.  
-
----
-
 ## Skills
 
 ### Frontend
